@@ -1,5 +1,11 @@
 # Z-OSINT 🚀
+## 🟢 Animated Terminal Girl
 
+<p align="center">
+  <img src="assets/anime.svg" width="500">
+</p>
+
+---
 **Ethical Bug Bounty Recon + Cookies/Session Extractor**
 
 Advanced OSINT crawler that extracts **cookies**, **session tokens**, **emails**, **phones**, **subdomains** from websites. 100% Termux compatible.
