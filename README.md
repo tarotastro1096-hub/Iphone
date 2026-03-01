@@ -1,6 +1,4 @@
-# Z-OSINT 🚀
-## 🟢 Animated Terminal Girl
-
+# Z-OSINT 
 <p align="center">
   <img src="/IMG_20260301_161524.png" width="500">
 </p>
