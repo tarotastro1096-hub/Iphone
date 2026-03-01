@@ -2,7 +2,7 @@
 ## 🟢 Animated Terminal Girl
 
 <p align="center">
-  <img src="assets/anime.svg" width="500">
+  <img src=" /storage/emulated/0/IMG_20260301_161524.png " width="500">
 </p>
 
 ---
